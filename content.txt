@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 clear content
+=======
+cherry content
+>>>>>>> e4f0710... created content on cherry-branch
